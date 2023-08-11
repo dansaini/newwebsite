@@ -23,7 +23,7 @@ const ServiceData = () =>{
 
 const ServiceText = [
     {
-        imgsrc : "logo192.png",
+        imgsrc : "newwebsite/logo192.png",
         title : "React JSX",
         link : "/react-jsx",
     },
