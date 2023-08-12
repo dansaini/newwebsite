@@ -23,67 +23,67 @@ const ServiceData = () =>{
 
 const ServiceText = [
     {
-        imgsrc : "logo192.png",
+        imgsrc : "/newwebsite/logo192.png",
         title : "React JSX",
         link : "/react-jsx",
     },
     {
-        imgsrc : "logo192.png",
+        imgsrc : "/newwebsite/logo192.png",
         title : "Template litreals",
         link : "/litreals",
     },
     {
-        imgsrc : "logo192.png",
+        imgsrc : "/newwebsite/logo192.png",
         title : "Component",
         link : "/component",
     },
     {
-        imgsrc : "logo192.png",
+        imgsrc : "/newwebsite/logo192.png",
         title : "Get Time",
         link : "/watch",
     },
     {
-        imgsrc : "logo192.png",
+        imgsrc : "/newwebsite/logo192.png",
         title : "Inline CSS",
         link : "/inlinecss",
     },
     {
-        imgsrc : "logo192.png",
+        imgsrc : "/newwebsite/logo192.png",
         title : "If / Else Condition",
         link : "/Conditions",
     },
     {
-        imgsrc : "logo192.png",
+        imgsrc : "/newwebsite/logo192.png",
         title : "Export & import multiple varibale and Functions",
         link : "/ExportImport",
     },
     {
-        imgsrc : "logo192.png",
+        imgsrc : "/newwebsite/logo192.png",
         title : "React Mapping",
         link : "/mapping",
     },
     {
-        imgsrc : "logo192.png",
+        imgsrc : "/newwebsite/logo192.png",
         title : "React Spread Operator",
         link : "/spreadoperator",
     },
     {
-        imgsrc : "logo192.png",
+        imgsrc : "/newwebsite/logo192.png",
         title : "React Destructuring",
         link : "/destructuring",
     },
     {
-        imgsrc : "logo192.png",
+        imgsrc : "/newwebsite/logo192.png",
         title : "React Hooks",
         link : "/hooks",
     },
     {
-        imgsrc : "logo192.png",
+        imgsrc : "/newwebsite/logo192.png",
         title : "React Form",
         link : "/form",
     },
     {
-        imgsrc : "logo192.png",
+        imgsrc : "/newwebsite/logo192.png",
         title : "React TO DO List",
         link : "/list",
     },

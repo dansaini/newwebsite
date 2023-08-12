@@ -16,13 +16,13 @@ const ImageSlider = () => {
     return (
       <Slider {...settings}>
         <div>
-          <img decoding="async" src="images/image1.jpg" alt="Image 1" data-lazy-src="images/image1.jpg" />
+          <img decoding="async" src="/newwebsite/images/image1.jpg" alt="Image 1" data-lazy-src="images/image1.jpg" />
         </div>
         <div>
-          <img decoding="async" src="images/image2.jpg" alt="Image 2" data-lazy-src="images/image2.jpg" />
+          <img decoding="async" src="/newwebsite/images/image2.jpg" alt="Image 2" data-lazy-src="images/image2.jpg" />
         </div>
         <div>
-          <img decoding="async" src="images/image3.jpg" alt="Image 3" data-lazy-src="images/image2.jpg" />
+          <img decoding="async" src="/newwebsite/images/image3.jpg" alt="Image 3" data-lazy-src="images/image2.jpg" />
         </div>
       </Slider>
     );
